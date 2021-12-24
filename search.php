@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </div>
 <br>
 <p style="padding-left: 110px;">Hosted on <a href="https://www.d-elete.com">D-Elete</a>,<br>
-Source at <a href="https://github.com/powercrypt/Usenet-Archiving-Tool">GitHub</a></p>
+Source at <a href="https://github.com/powercrypt/Newsgroup-Archving-Tool">GitHub</a></p>
 
 <script>
 function myFunction() {
