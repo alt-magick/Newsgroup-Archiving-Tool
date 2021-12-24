@@ -49,6 +49,6 @@ if($start > 0 && $number >0){
 ?>
 </div>	
 <p style="padding-left: 110px;">Hosted on <a href="https://www.d-elete.com">D-Elete</a>,<br>
-Source at <a href="https://github.com/powercrypt/Usenet-Archiving-Tool">GitHub</a></p>
+Source at <a href="https://github.com/powercrypt/Newsgroup-Archving-Tool">GitHub</a></p>
 </body>
 </html>
