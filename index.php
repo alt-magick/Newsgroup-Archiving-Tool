@@ -14,7 +14,7 @@ div {
 <div>
 Alt.Magick<br><br>
 </div>
-<a href="./secrets/"><img src="./files/star.png" style="padding-left: 30px;"></img></a><br><br><br>
+<a href="./secrets/"><img src="star.png" style="padding-left: 30px;"></img></a><br><br><br>
 <div style="padding-left: 45px;">
 <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
 
