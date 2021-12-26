@@ -35,7 +35,7 @@ $number = $_POST['total'];
 $exFiles = 5 //For system files
 $filelist = scandir('/var/www/html/alt-magick.com/public_html/');
 //get subset of file array
-$selectedFiles = array_slice($filelist, count($filelist) - 5 - $number,($number-$start)+1);
+$selectedFiles = array_slice($filelist, count($filelist) - $exFiles - $number,($number-$start)+1);
 //output appropriate items
 $numposts = $start;
 if($start > 0 && $number >0){
