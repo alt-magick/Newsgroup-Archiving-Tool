@@ -18,6 +18,6 @@ for fname in directory:
         # Full path
         f = open(user_input + os.sep + fname, 'r')
 	x = fname.replace("_", " ")
-        if search in f.read():
+        if search in f.read().lower():
             print("<a href='" + fname + "' target=_'blank'>" + x + "</a> <br><br>")
         f.close()
